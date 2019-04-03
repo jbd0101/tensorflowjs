@@ -1,6 +1,7 @@
 {
   "name": "tensorjs",
   "version": "0.1.0",
+  "homepage": "https://jbd0101.github.io/tensorflowjs",
   "private": true,
   "dependencies": {
     "@tensorflow-models/coco-ssd": "^1.0.0",
